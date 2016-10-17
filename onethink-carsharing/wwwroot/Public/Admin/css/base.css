@@ -52,6 +52,7 @@ input::-moz-focus-inner {
 /* 布局样式 */
 .cf,.nav,.container-span {
 	*zoom: 1;
+	padding-top: 20px;
 }
 .cf:before, .cf:after,
 .nav:before, .nav:after,
